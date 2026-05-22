@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "releaseDate": "2026-05-21",
-  "message": "SaveandLoad2 当前版本无更新。修改本文件并推送到 master 分支即可触发客户端更新提示。",
+  "message": "新增Pro模式，支持更多功能",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
