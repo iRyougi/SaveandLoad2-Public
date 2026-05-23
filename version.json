@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "releaseDate": "2026-05-22",
-  "message": "新增Pro模式，支持更多功能",
+  "version": "0.2.1",
+  "releaseDate": "2026-05-24",
+  "message": "修复了已知的BUG，包括回合数计算错误，以及多人游戏下Pro模式玩家ID显示错误的问题。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
