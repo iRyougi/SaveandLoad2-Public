@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "releaseDate": "2026-05-24",
   "message": "修复了已知的BUG，包括回合数计算错误，以及多人游戏下Pro模式玩家ID显示错误的问题。",
   "downloadUrl": {
