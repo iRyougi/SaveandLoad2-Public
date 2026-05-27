@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "releaseDate": "2026-05-24",
-  "message": "修复了已知的BUG，主要是Pro模式的Steam路径问题",
+  "message": "新增跳过奖励显示",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
