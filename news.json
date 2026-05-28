@@ -3,49 +3,83 @@
   "updatedAt": "2026-05-28",
   "items": [
     {
-      "id": "sts2-0.106.1",
-      "version": "v0.106.1",
-      "tag": "beta-hotfix",
-      "title": "Beta 热修复补丁说明 - v0.106.1",
-      "summary": "Aeonglass 相关修复 + 多语言翻译更新。",
-      "date": "2026-05-23",
-      "url": "https://store.steampowered.com/news/app/2868840",
+      "id": "sts2-neowsletter-2026-05",
+      "version": "2026-05",
+      "tag": "newsletter",
+      "title": "Neowsletter - 2026 年 5 月号",
+      "summary": "测试分支改为双周更新节奏，Bestiary 已加入测试分支，Doormaker 被新 Boss Aeonglass 替换，并公布了玩家数据、锦标赛、周边和社区创作内容。",
+      "date": "2026-05-22",
+      "url": "https://store.steampowered.com/news/app/2868840/view/701016542742053855",
       "sections": [
         {
-          "heading": "文本",
+          "heading": "开发进度",
           "items": [
-            "更新了多语言翻译"
+            "Beta 补丁节奏从每周一次调整为每两周一次，以便测试分支玩家有更多时间吸收改动并反馈问题",
+            "主分支更新也会因此变得更不频繁，但开发团队希望这能提升两个分支的反馈质量",
+            "Bestiary 已加入测试分支的 Compendium，目前可查看游戏内敌人列表和其动作动画，未来会加入更详细的信息",
+            "近期 Beta 补丁主要集中在稳定性、性能优化和平衡调整",
+            "Doormaker 已从测试分支移除，并由新 Boss Aeonglass 替换",
+            "Steam Workshop 支持和 Twitch 集成仍在开发中，预计会在不久后推出"
           ]
         },
         {
-          "heading": "Bug 修复 / 敌人",
+          "heading": "尖塔数据",
           "items": [
-            "玩家不能再升级 Wither 状态牌",
-            "Wither 状态牌不会再因 Runic Pyramid 等保留效果停留在手牌"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sts2-0.106.0",
-      "version": "v0.106.0",
-      "tag": "beta",
-      "title": "Beta 补丁说明 - v0.106.0",
-      "summary": "新遗物加入 + 若干平衡性调整。",
-      "date": "2026-05-20",
-      "url": "https://store.steampowered.com/news/app/2868840",
-      "sections": [
-        {
-          "heading": "新增内容",
-          "items": [
-            "新增 3 件遗物（示例）",
-            "新增 1 张精英卡（示例）"
+            "截至文章撰写时，社区累计进行了约 2.4 亿次游戏",
+            "其中约 6050 万次为胜利，约 1.795 亿次为失败，整体胜率约为 25%",
+            "A0 平均胜率约为 16%，相比《Slay the Spire 1》的 9% 更高",
+            "当前最高难度 A10 的胜率约为 17%，相比《Slay the Spire 1》A20 的约 3% 更高",
+            "各角色的游玩占比整体接近均衡，铁甲战士和静默猎手略高"
           ]
         },
         {
-          "heading": "平衡性调整",
+          "heading": "社区数据项目",
           "items": [
-            "若干卡牌伤害/费用调整（示例）"
+            "官方推荐了 Spiracle 和 Spire Codex 两个社区项目",
+            "这些项目会收集统计数据，并为玩家提供数据、工具和指南"
+          ]
+        },
+        {
+          "heading": "活动 / 锦标赛",
+          "items": [
+            "首个大型社区主导的《Slay the Spire 2》锦标赛 Devour the Tower 将于 5 月 25 日举行",
+            "该赛事为 4 人合作竞赛，共有 34 位主播参与",
+            "赛事将由 FrostPrime 和 Otzdarva 共同解说",
+            "获胜者可能会获得 Mega Crit 提供的特别礼物"
+          ]
+        },
+        {
+          "heading": "周边",
+          "items": [
+            "Makeship x Slay the Spire 推出了首款服装周边：静默猎手主题连帽衫",
+            "该周边开放预购至太平洋时间 5 月 29 日上午 5 点"
+          ]
+        },
+        {
+          "heading": "小游戏 / 互动内容",
+          "items": [
+            "本期继续推出了新的 Slay the Spire Connections Puzzle"
+          ]
+        },
+        {
+          "heading": "地图创作展示",
+          "items": [
+            "展示了 AplphaE 绘制的 Regent 可爱作品",
+            "展示了白板红中碰發财绘制的 Necrobinder 与 Osty 精细插画",
+            "展示了 salty final boss 的涂鸦作品",
+            "展示了 SnakeFangz 绘制的 Doormaker 相关幽默作品"
+          ]
+        },
+        {
+          "heading": "社区角落",
+          "items": [
+            "本月封面图来自 doshiBAP，主题为 Mother of Resurrection",
+            "下个月社区主题为 Slay the Summer",
+            "投稿作品需通过 fanmail@megacrit.com 或官方 Discord 的 fanart 频道提交",
+            "投稿图像要求为 800x450px、无文字，并为标题留出空间",
+            "展示了 dk000484 的系列插画",
+            "展示了 lizard 的毕业帽创作",
+            "推荐了用于测试《Slay the Spire 2》知识的 Spiredle"
           ]
         }
       ]
