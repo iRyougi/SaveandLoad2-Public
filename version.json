@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "releaseDate": "2026-05-24",
-  "message": "新增跳过奖励显示",
+  "version": "0.3.0",
+  "releaseDate": "2026-05-28",
+  "message": "重大更新，建议所有用户更新到最新版本以获得最佳体验。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"

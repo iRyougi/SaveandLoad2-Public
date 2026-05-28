@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-28",
+  "items": [
+    {
+      "id": "sts2-0.106.1",
+      "version": "v0.106.1",
+      "tag": "beta-hotfix",
+      "title": "Beta 热修复补丁说明 - v0.106.1",
+      "summary": "Aeonglass 相关修复 + 多语言翻译更新。",
+      "date": "2026-05-23",
+      "url": "https://store.steampowered.com/news/app/2868840",
+      "sections": [
+        {
+          "heading": "文本",
+          "items": [
+            "更新了多语言翻译"
+          ]
+        },
+        {
+          "heading": "Bug 修复 / 敌人",
+          "items": [
+            "玩家不能再升级 Wither 状态牌",
+            "Wither 状态牌不会再因 Runic Pyramid 等保留效果停留在手牌"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sts2-0.106.0",
+      "version": "v0.106.0",
+      "tag": "beta",
+      "title": "Beta 补丁说明 - v0.106.0",
+      "summary": "新遗物加入 + 若干平衡性调整。",
+      "date": "2026-05-20",
+      "url": "https://store.steampowered.com/news/app/2868840",
+      "sections": [
+        {
+          "heading": "新增内容",
+          "items": [
+            "新增 3 件遗物（示例）",
+            "新增 1 张精英卡（示例）"
+          ]
+        },
+        {
+          "heading": "平衡性调整",
+          "items": [
+            "若干卡牌伤害/费用调整（示例）"
+          ]
+        }
+      ]
+    }
+  ]
+}
