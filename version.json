@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "releaseDate": "2026-05-28",
-  "message": "重大更新，建议所有用户更新到最新版本以获得最佳体验。",
+  "version": "0.3.1",
+  "releaseDate": "2026-05-31",
+  "message": "生涯统计大幅增强：可组合筛选、职业明细、建筑师伤害、卡牌收益率。建议更新。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
