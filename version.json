@@ -1,7 +1,7 @@
 {
-  "version": "0.3.3",
-  "releaseDate": "2026-06-21",
-  "message": "v0.3.3（Beta）：新增战斗伤害/弱化统计、局内成就、遗物真实图标与单人/多人筛选；修复 mod 数据采集（终结一击不丢、存读档不再丢前半局）；新增文件日志、Pro Mode mod 自动升级，并兼容创意工坊版 BaseLib。",
+  "version": "0.3.4",
+  "releaseDate": "2026-06-30",
+  "message": "v0.3.4（Beta）：新增毒/灾厄等持续伤害统计（独立命名桶）、战绩搜索与结果/联机筛选、帮助文档入口；新增切页转场与启动加载动画、玩家 Tab 居中导航；修复 Steam 路径大小写对齐，新增日志占用提醒。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
