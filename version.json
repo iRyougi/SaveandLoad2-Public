@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "releaseDate": "2026-06-30",
-  "message": "v0.3.4（Beta）：新增毒/灾厄等持续伤害统计（独立命名桶）、战绩搜索与结果/联机筛选、帮助文档入口；新增切页转场与启动加载动画、玩家 Tab 居中导航；修复 Steam 路径大小写对齐，新增日志占用提醒。",
+  "version": "0.3.5",
+  "releaseDate": "2026-07-06",
+  "message": "v0.3.5（Beta，紧急修复）：修复游戏 v0.108 更新导致的战斗数据采集损坏（回合合并、怪物伤害丢失、伤害误标为充能球伤害）；新增采集自诊断与历史坏日志「数据存疑」提示。建议尽快更新。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
