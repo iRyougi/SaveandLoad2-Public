@@ -1,10 +1,10 @@
 {
-  "version": "0.3.5",
-  "releaseDate": "2026-07-06",
-  "message": "v0.3.5（Beta，紧急修复）：修复游戏 v0.108 更新导致的战斗数据采集损坏（回合合并、怪物伤害丢失、伤害误标为充能球伤害）；新增采集自诊断与历史坏日志「数据存疑」提示。建议尽快更新。",
+  "version": "0.3.7",
+  "releaseDate": "2026-08-01",
+  "message": "v0.3.7（Beta，紧急修复）：修复游戏 v0.110 更新函数CombatManager.EndCombatInternal()导致的战斗数据采集损坏。建议尽快更新。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
   },
-  "forceUpdate": false
+  "forceUpdate": true
 }
