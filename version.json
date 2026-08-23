@@ -1,7 +1,7 @@
 {
-  "version": "0.3.7",
-  "releaseDate": "2026-08-01",
-  "message": "v0.3.7（Beta，紧急修复）：修复游戏 v0.110 更新函数CombatManager.EndCombatInternal()导致的战斗数据采集损坏。建议尽快更新。",
+  "version": "0.3.8",
+  "releaseDate": "2026-08-23",
+  "message": "v0.3.8（Beta，紧急修复）：游戏更新到 v0.111 后 v0.3.7 的修复被打破，导致胜利结束的战斗日志完全不会写出。本版本修复，建议尽快更新。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
