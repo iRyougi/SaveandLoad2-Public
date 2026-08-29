@@ -1,10 +1,10 @@
 {
-  "version": "0.3.8",
-  "releaseDate": "2026-08-23",
-  "message": "v0.3.8（Beta，紧急修复）：游戏更新到 v0.111 后 v0.3.7 的修复被打破，导致胜利结束的战斗日志完全不会写出。本版本修复，建议尽快更新。",
+  "version": "0.3.9",
+  "releaseDate": "2026-08-30",
+  "message": "v0.3.9（Beta）：首次启动改为引导设置存档目录（不再显示示例数据）、战绩搜索支持卡牌/遗物名、修复卡牌变形（如树叶药膏）不出现在楼层时间线的问题、安装包瘦身。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
   },
-  "forceUpdate": true
+  "forceUpdate": false
 }
