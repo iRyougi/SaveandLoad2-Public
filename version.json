@@ -1,7 +1,7 @@
 {
-  "version": "0.3.9",
-  "releaseDate": "2026-08-30",
-  "message": "v0.3.9（Beta）：首次启动改为引导设置存档目录（不再显示示例数据）、战绩搜索支持卡牌/遗物名、修复卡牌变形（如树叶药膏）不出现在楼层时间线的问题、安装包瘦身。",
+  "version": "0.3.10",
+  "releaseDate": "2026-09-06",
+  "message": "v0.3.10（Beta）：新增战绩详情页「导出本局」一键导出（含战斗日志/原始存档）、解析卡牌附魔系统、修复毒流角色（如静默猎人）战斗伤害统计不准的问题。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
