@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10",
-  "releaseDate": "2026-09-06",
-  "message": "v0.3.10（Beta）：新增战绩详情页「导出本局」一键导出（含战斗日志/原始存档）、解析卡牌附魔系统、修复毒流角色（如静默猎人）战斗伤害统计不准的问题。",
+  "version": "0.3.11",
+  "releaseDate": "2026-09-13",
+  "message": "v0.3.11（Beta）：生涯统计全新整理，新增遗物与开局选择排行、卡组中位数、胜率成长曲线和楼层血量趋势，修复时间显示与滚轮问题。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
