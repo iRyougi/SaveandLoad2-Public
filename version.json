@@ -1,7 +1,7 @@
 {
   "version": "0.3.11",
   "releaseDate": "2026-09-13",
-  "message": "v0.3.11（Beta）：生涯统计全新整理，新增遗物与开局选择排行、卡组中位数、胜率成长曲线和楼层血量趋势，修复时间显示与滚轮问题。",
+  "message": "v0.3.11（Beta）：生涯统计全新整理，新增遗物与开局选择排行、卡组中位数、胜率成长曲线和楼层血量趋势；Pro Mode 新增卡牌实例编号与完整牌堆记录，修复时间显示与滚轮问题。",
   "downloadUrl": {
     "domestic": "",
     "global": "https://github.com/iRyougi/SaveandLoad2-Public/releases/latest"
